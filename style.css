@@ -1,0 +1,425 @@
+*{
+    
+}
+#dis2{
+    display: none;
+}
+#dis3{
+    display: none;
+}
+
+
+
+#dis1{
+    background-image: url(img/slider-5-bg-1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    
+}
+/* navbar */
+#dis1 .navbar .navbar-brand{
+    font-size:35px ;
+    color: whitesmoke; 
+    font-weight: 700;
+}
+
+#dis1 .navbar .navbar-brand span{
+    font-weight: 400;
+}
+#dis1 .navbar .nav-item a{
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
+/* <navbar end */
+/* dis */
+.dis1text p{
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+}
+.dis1text h1{
+    font-size: 55px;
+    color: white;
+    font-weight: 700;
+    font-family:sans-serif;
+}
+.dis1text span{
+    color: yellow;
+    font-size: 45px
+    ;text-decoration: underline;
+}
+
+.dis1text button{
+    width: 150px;
+    height: 55px;
+    border: 2px solid white;
+    background-color:rgba(34, 63, 58, 0.767);
+}
+
+
+
+
+/* dis2 */
+#dis2{
+    background-image: url(img/slider-5-bg-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    
+}
+
+/* navbar */
+#dis2 .navbar .navbar-brand{
+    font-size:35px ;
+    color: whitesmoke; 
+    font-weight: 700;
+}
+
+#dis2 .navbar .navbar-brand span{
+    font-weight: 400;
+}
+#dis2 .navbar .nav-item a{
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
+/* <navbar end */
+
+.dis2text p{
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+}
+.dis2text h1{
+    font-size: 55px;
+    color: white;
+    font-weight: 700;
+    font-family:sans-serif;
+}
+.dis2text span{
+    color: yellow;
+    font-size: 45px
+    ;text-decoration: underline;
+}
+
+.dis2text button{
+    width: 150px;
+    height: 55px;
+    border: 2px solid white;
+    background-color:rgb(158,42,5);
+}
+/* dis3 */
+#dis3{
+    background-image: url(img/slider-5-bg-3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    
+}
+/* navbar */
+#dis3 .navbar .navbar-brand{
+    font-size:35px ;
+    color: whitesmoke; 
+    font-weight: 700;
+}
+
+#dis3 .navbar .navbar-brand span{
+    font-weight: 400;
+}
+#dis3 .navbar .nav-item a{
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
+/* <navbar end */
+.dis3text p{
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+}
+.dis3text h1{
+    font-size: 55px;
+    color: white;
+    font-weight: 700;
+    font-family:sans-serif;
+}
+.dis3text span{
+    color: yellow;
+    font-size: 45px
+    ;text-decoration: underline;
+}
+
+.dis3text button{
+    width: 150px;
+    height: 55px;
+    border: 2px solid white;
+    background-color:rgba(158, 43, 5, 0);
+}
+.btnslide{
+    background-color: rebeccapurple;
+}
+
+/* borwser */
+
+
+
+
+.browsertext h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.buttonwithicon button{
+    width:270px;
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    border: none;
+    position: relative;
+    top: -50px;
+}
+
+
+
+  /* end */
+  .gymtext p{
+    color: black;
+    font-weight: 600;
+    text-align: center;
+  }
+  .gymtext h1{
+    font-weight: 700;
+    
+  }
+
+
+  
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+  }
+   
+  
+  #panel2, #flip2 {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel2 {
+    padding: 50px;
+    display: none;
+  }
+
+
+  #panel3, #flip3 {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel3 {
+    padding: 50px;
+    display: none;
+  }
+
+
+  
+  #panel4, #flip4 {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel4 {
+    padding: 50px;
+    display: none;
+  }
+
+  
+  
+  #panel5, #flip5 {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel5 {
+    padding: 50px;
+    display: none;
+  }
+
+  
+  
+  #panel6, #flip6 {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel6 {
+    padding: 50px;
+    display: none;
+  }
+
+  .coursebtn button{
+    width: 200px;
+    height: 45px;
+    background-color: rgb(240,236,81);
+    color: black;
+    font-weight: 600;
+    border: none;
+  }
+
+  /* video */
+  .video{
+    
+    background-image: url(img/video-5-bg-1.jpg);
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    
+  }
+  .videoicon i{
+    font-size: 75px;
+    
+    position: relative;
+    top: 235px;
+
+
+  }
+  .marquee{
+    height:70px;
+    background-color: rgb(240,236,81);
+  }
+  .marquee marquee{
+    font-size: 35px;
+    font-weight: 700;
+  }
+  .marquee span{
+    color: red;
+  }
+
+
+
+  .textmember{
+    
+    border-radius: 25px;
+    background-color: rgb(229,237,204);
+  }
+  .textmember h4 
+  {
+    font-weight: 700;
+  }
+  .textmember h1{
+    font-weight: 700;
+    font-size: 65px;
+  }
+  .textmember span{
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .textwithicon i{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.615);
+    font-weight: 600;
+  }
+  .memberbtn button{
+    width: 250PX;
+    
+    height: 45px;
+    background-color: yellow;
+    border: none;
+    color: black;
+    font-weight: 600;
+  }
+  .memberbtn button:hover{
+    background-color: black;
+    color: white;
+  }
+
+
+  .contact1{
+    background-image: url(img/banner-5-bg-1.jpg);
+    height: 500PX;
+  }
+  .contact1 h4{
+    font-weight: 700;
+    color: white;
+    font-family: italic;
+  
+  }
+ .contact1 h1{
+  color: white;
+  font-weight: 800;
+  font-size: 75;
+ }
+ .contact1 p{
+  color: rgba(255, 255, 255, 0.849);
+ }
+ .contact1 button{
+  width: 150px;
+  background-color: rgba(255, 255, 255, 0);
+  border: 2px solid white;
+ }
+ .contact1 button:hover{
+  background-color: white;
+  color: black;
+  border: none;
+ }
+
+
+
+
+ .contact2{
+  background-image: url(img/banner-5-bg-2.jpg);
+  height: 500PX;
+}
+.contact2 h4{
+  font-weight: 700;
+  color: white;
+  font-family: italic;
+
+}
+.contact2 h1{
+color: white;
+font-weight: 800;
+font-size: 75;
+}
+.contact2 p{
+color: rgba(255, 255, 255, 0.849);
+}
+.contact2 button{
+width: 150px;
+color: black;
+background-color: rgba(234, 249, 105, 0.908);
+border: none;
+}
+.contact2 button:hover{
+background-color: white;
+color: black;
+border: none;
+}
