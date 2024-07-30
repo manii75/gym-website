@@ -53,6 +53,17 @@
     font-size: 45px
     ;text-decoration: underline;
 }
+@media only screen and (max-width:600px)
+{
+  .dis1text h1{
+    font-size: 35px;
+    font-weight: 600;
+    font-family:  sans-serif;
+  }
+  .dis1text span{
+    font-size: 35px;
+  }
+}
 
 .dis1text button{
     width: 150px;
@@ -109,6 +120,17 @@
     font-size: 45px
     ;text-decoration: underline;
 }
+@media only screen and (max-width:600px)
+{
+  .dis2text h1{
+    font-size: 35px;
+    font-weight: 600;
+    font-family:  sans-serif;
+  }
+  .dis2text span{
+    font-size: 35px;
+  }
+}
 
 .dis2text button{
     width: 150px;
@@ -159,6 +181,18 @@
     font-size: 45px
     ;text-decoration: underline;
 }
+@media only screen and (max-width:600px)
+{
+  .dis3text h1{
+    font-size: 35px;
+    font-weight: 600;
+    font-family:  sans-serif;
+  }
+  .dis3text span{
+    font-size: 35px;
+  }
+}
+
 
 .dis3text button{
     width: 150px;
