@@ -59,7 +59,7 @@
 @media only screen and (max-width:600px)
 {
     .navtoggle{
-  display: none;
+  display: block;
 }
   .dis1text h1{
     font-size: 35px;
